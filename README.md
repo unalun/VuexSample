@@ -1,4 +1,3 @@
-# VuexSample
 
 ## Project setup
 ```
